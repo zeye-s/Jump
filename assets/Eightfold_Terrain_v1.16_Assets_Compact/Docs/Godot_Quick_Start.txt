@@ -1,6 +1,0 @@
-Godot编辑 / Godot editing
-1. Godot4.7.2: Import→选择Content/project.godot→Edit，首次等待纹理导入；F6/F5运行。不要只拖Use PNG后期待已有地形逻辑。
-2. 顶部选择当前6预设之一与8主题。默认庭院完整石块1.16；右侧Whole stone开关切两路线，原生外观选择只对Native32有效。左键画路、右键擦除当前类别，Ctrl+Z撤销一笔；装饰和整块有独立类别。
-3. Save JSON写到自己可写目录；Load JSON读回。预设/主题切换前先保存需保留的修改。两个路线都是24×18格、32px逻辑格；完整域可能外伸，不是碰撞范围。
-English: Import Content/project.godot, wait for imports, run. Pick one of6 current presets and one of8 themes. Paint/erase/undo. Save JSON to your writable project directory and use Load JSON to reopen. Switching presets replaces edits, so save first.
-Python可选导出：python Tools/render_layout.py Layouts/courtyard_whole.json output.png --theme 04_moss_ruins（从Content目录执行；依赖Python/Pillow/NumPy）。加--road-layer仅导出路层。

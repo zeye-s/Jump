@@ -1,6 +1,0 @@
-高级兼容 / Advanced compatibility
-常规客户只需当前6预设、8主题和Use图，不需要选择历史版本。
-Content保留完整1.16兼容图集及旧像素矩形；1.12/1.13/1.14/1.15的渲染分支及砂岩旧跨格规则保留，仅为了Load JSON能读已有合法存档。主菜单不再列历史预设。不会自动升级旧存档。
-旧存档载入时可保留原规则；若选择Whole stone开关重新启用，会使用1.16，请另存新文件。未知schema/policy应拒绝，保留当前场景。
-已删除买家目录中的raw/生成输入、源加工中间件、QA、历史前后对比、旧网页、重复Unity/Tiled嵌套工程包和缓存；作者1.16完整工程保持原位。现客户包承诺可编辑Godot与PNG/JSON/Python路线，不附Unity/Tiled自动导入包。
-The frozen Content atlas and legacy renderer branches exist only for old JSON compatibility. New users choose the6 current presets. Author source archives and previous engine packages are not buyer runtime dependencies and are omitted. Existing author1.16 directory is untouched.
