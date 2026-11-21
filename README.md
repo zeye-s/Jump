@@ -6,3 +6,5 @@ This project will use a lot of assets from itch.io so credits to the original ar
   - https://itch.io/queue/c/5591313/dagonns-collection?game_id=5106319&password=
   -  https://luizatorello.itch.io/frozentauruss-cave-tileset
 - Character: https://duckhive.itch.io/froggo
+
+Font is Karmatic Arcade Regular by Vic Fieger: https://www.1001fonts.com/users/vicfieger/?page=2
