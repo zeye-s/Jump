@@ -1,0 +1,6 @@
+两条路线 / Two routes
+完整石块 Whole stone（推荐）：1.16有限768×576母材，按完整源域和世界坐标选择。保留原石块轮廓，边缘可能外伸30–48px；不能当32px自动地形或无限平铺。使用Content渲染器/Godot、Use母面和Mapping域偏移。
+原生 Native32：原有32px连接组，47有效mask×8外观。每外观在Use中直接组成完整面、内孔、L、T、十字和特殊备用区。按Mapping.roads/元数据选择，不旋转光影。原24整块和6装饰集中保留。
+两路线地面可能不同，目录明确whole/native底地；按各自相位取样。Use不是重绘：全部是Content原图精确RGBA裁片，不改大小、不旋转、不重新量化。正式取用图已重排；Content/Texture冻结兼容图本体没有重排。
+Use top: whole-source field and3 adjacent source examples. Next: native32 connection kits. Then whole pieces, soil/edge and decorations. Bottom: current route-specific ground(s). Mapping.json records every move.
+本精简版保留2张同源示例图；六个可编辑布局可在Godot工程中切换8个主题。原生与完整域路线渲染不同。

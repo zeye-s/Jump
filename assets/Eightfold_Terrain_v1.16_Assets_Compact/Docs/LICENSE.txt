@@ -1,0 +1,58 @@
+EIGHTFOLD TERRAIN — BUYER LICENSE
+Version: 1.0 · 2026-10-05
+
+1. Parties and grant
+“Licensor” means the store publisher selling this pack. “Buyer” means the
+individual or organization that lawfully acquired it. To the extent that the
+Licensor holds and can grant the relevant rights, the Buyer receives a worldwide,
+perpetual, non-exclusive license to the supplied assets, examples, and authoring
+tools. Separately identified third-party licenses govern their own content.
+Ownership is not transferred. This grant provides no exclusivity and does not
+purport to grant third-party rights that the Licensor does not hold.
+
+2. Permitted uses
+- Use the pack in any number of commercial or noncommercial games, and distribute
+  or sell those games.
+- Crop, recolor, edit, combine, adapt, or convert the assets for those games.
+- Display assets used in those games in screenshots, promotional images, videos,
+  streams, and store pages for the games.
+- Share the assets internally with the Buyer's team, employees, and contractors
+  working on its games, without separate per-seat purchases. Recipients must
+  follow this license and may not distribute the pack independently.
+- Integrate, modify, and use the supplied examples and tools for game production.
+- Credit is optional. “Eightfold Terrain” may be used as the asset name.
+
+3. Prohibited uses
+- Independently share, give away, upload, resell, or sublicense the assets, source
+  images, atlases, or authoring project, including edited, renamed, repackaged,
+  recolored, or format-converted versions.
+- Release the pack or adaptations as a directly competing asset pack, asset
+  library, template asset collection, or independently downloadable asset product.
+- Treat internal team sharing as permission to transfer assets to unrelated
+  individuals or teams.
+- Claim exclusive rights from this purchase or represent the pack's AI-derived
+  artwork as entirely hand-drawn by you.
+
+4. Distribution within a game
+Necessary assets may be distributed with a game and its normal updates, or
+integrated into a game project delivered to a client. This does not permit using
+an “example game,” “source project,” or similar packaging to offer the assets as
+an independently reusable download. Integrate assets as needed for the game,
+rather than offering a standalone asset library. Players and recipients do not
+receive a license to extract assets for other use or redistribution.
+
+5. AI origin and suitability
+This pack includes generative-AI-assisted imagery and derivatives produced by
+bitmap cropping, nearest-neighbor normalization, compositing, and engine export.
+It is not entirely hand-drawn native pixel art. The Licensor does not claim
+identical copyright status in all jurisdictions, exclusivity, or an absence of
+similar content. Read AI_DISCLOSURE.md and the verified scope in the README when
+deciding whether the pack fits your project.
+
+6. Updates and support
+This license applies to the files acquired by the Buyer as part of this pack and permitted edits.
+Availability and purchase terms for future versions follow the store page.
+The license itself promises no future updates, response deadline,
+custom work, specific engine-version compatibility, or commercial outcome.
+Use the purchase page's contact or comment channel for support. Nothing here
+reduces mandatory buyer rights that applicable law does not permit excluding.

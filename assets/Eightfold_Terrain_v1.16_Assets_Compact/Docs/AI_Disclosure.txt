@@ -1,0 +1,5 @@
+AI来源披露 / AI disclosure
+本包美术沿用Eightfold Terrain1.16。既有图像包含AI生成/编辑后的裁切、限色及图集组织；不宣称全部为原生逐像素手绘。1.16只新增两次自有清晰底地母图编辑，未改变八套原石块像素。
+本次买家整理0次生图、0次美术重绘：只做无损裁片排版、稳定ID映射、当前预设和使用入口整理。Use与Content可逐像素验证；同源示例由图集渲染，不另生图美化。
+完整历史披露逐字保留在AI_Disclosure_Original.md，其中Source/Revision等路径指作者历史档案，不在本精简客户包。当前运行与取用不需要这些raw。许可见LICENSE.txt；整理未更改许可条款，也不表示平台或用户已经认可美术。
+Art inherits1.16 with AI-assisted sources and documented processing. This usability pass performs no image generation/repainting. Historical disclosure is preserved verbatim; its Source paths refer to the author archive omitted from this buyer runtime package.

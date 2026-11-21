@@ -1,0 +1,9 @@
+#gameScreen{
+    width:100vw;
+    height:100vh;
+    background-position: center;
+}
+
+body{
+    background-image:url("/assets/Glacial-mountains-parallax-background_vnitti/background_glacial_mountains.png");
+}
